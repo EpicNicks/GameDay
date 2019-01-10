@@ -1,0 +1,15 @@
+{
+    "MasterWordList": [
+        "Programmers are nerds",
+        "C sharp is better than Java",
+        "Hangman is hard",
+        "Repeating letters",
+        "Please Hire Me",
+        "I am great at programming"
+    ],
+
+    "Add": "words formatted by \"Your phrase\", \"Next phrase\", \"etc\", \"Final phrase\"",
+    "Phrases": "should not be longer than 5 words",
+    "Omit": "symbols such as &, and $. Only Letter values can be guessed, all symbols will be omitted in-game.",
+    "Capitalization": "Will not be taken into account"
+}
